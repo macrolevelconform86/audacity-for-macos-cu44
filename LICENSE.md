@@ -1,4 +1,4 @@
-# 
+# Audacity for macOS custom Preset: scene-transitions & EQ offers the most advanced Audacity for macOS preset, with scene-transitions and EQ. Ideal for professional video editors
 
 
 
